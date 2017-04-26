@@ -1,5 +1,6 @@
 {
     "name" : "Locale::US",
+    "license" : "Artistic-2.0",
     "version" : "0.0.1",
     "description" : "Two letter codes for identifying United States territories and vice versa",
     "provides" : {
